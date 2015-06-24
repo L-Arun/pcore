@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/piaowu/!svn/ver/28879/pcore/trunk/src/com/lehecai/core/config/impl/lottery
+END
+LotteryExtraPrizeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/piaowu/!svn/ver/28879/pcore/trunk/src/com/lehecai/core/config/impl/lottery/LotteryExtraPrizeItem.java
+END
+LotteryResultItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/impl/lottery/LotteryResultItem.java
+END
+LotterySettingConfigParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/piaowu/!svn/ver/27462/pcore/trunk/src/com/lehecai/core/config/impl/lottery/LotterySettingConfigParser.java
+END
+LotterySettingConfigItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/piaowu/!svn/ver/28879/pcore/trunk/src/com/lehecai/core/config/impl/lottery/LotterySettingConfigItem.java
+END
+LotterySettingConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/piaowu/!svn/ver/27462/pcore/trunk/src/com/lehecai/core/config/impl/lottery/LotterySettingConfig.java
+END
+LotteryPrizeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/impl/lottery/LotteryPrizeItem.java
+END
+LotteryStopSellConfigParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/impl/lottery/LotteryStopSellConfigParser.java
+END
+LotteryStopSellConfigItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/impl/lottery/LotteryStopSellConfigItem.java
+END
+LotteryStopSellConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/impl/lottery/LotteryStopSellConfig.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/piaowu/!svn/ver/25606/pcore/trunk/src/com/lehecai/core/api/bean/query/impl
+END
+ListQueryProp.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/piaowu/!svn/ver/25146/pcore/trunk/src/com/lehecai/core/api/bean/query/impl/ListQueryProp.java
+END
+SingleQueryProp.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/piaowu/!svn/ver/25146/pcore/trunk/src/com/lehecai/core/api/bean/query/impl/SingleQueryProp.java
+END
+AbstractQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/piaowu/!svn/ver/25606/pcore/trunk/src/com/lehecai/core/api/bean/query/impl/AbstractQuery.java
+END
+AbstractQueryProp.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/piaowu/!svn/ver/25146/pcore/trunk/src/com/lehecai/core/api/bean/query/impl/AbstractQueryProp.java
+END
+RegionQueryProp.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/piaowu/!svn/ver/25146/pcore/trunk/src/com/lehecai/core/api/bean/query/impl/RegionQueryProp.java
+END

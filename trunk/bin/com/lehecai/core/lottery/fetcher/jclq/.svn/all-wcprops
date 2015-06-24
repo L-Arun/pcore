@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq
+END
+IJclqStaticInstantSpFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/piaowu/!svn/ver/14208/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/IJclqStaticInstantSpFetcher.java
+END
+IJclqScheduleFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/piaowu/!svn/ver/17322/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/IJclqScheduleFetcher.java
+END
+JclqDynamicInstantSpItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/piaowu/!svn/ver/14208/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/JclqDynamicInstantSpItem.java
+END
+AbstractJclqSpFetchWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/piaowu/!svn/ver/7440/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/AbstractJclqSpFetchWorker.java
+END
+JclqStaticInstantSpItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/piaowu/!svn/ver/14208/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/JclqStaticInstantSpItem.java
+END
+JclqScheduleItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/piaowu/!svn/ver/26207/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/JclqScheduleItem.java
+END
+IJclqSpFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/piaowu/!svn/ver/7440/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/IJclqSpFetcher.java
+END
+AbstractJclqDynamicInstantSpFetchWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/piaowu/!svn/ver/14208/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/AbstractJclqDynamicInstantSpFetchWorker.java
+END
+JclqSpItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/piaowu/!svn/ver/14208/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/JclqSpItem.java
+END
+IJclqDynamicInstantSpFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/piaowu/!svn/ver/14208/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/IJclqDynamicInstantSpFetcher.java
+END
+AbstractJclqStaticInstantSpFetchWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/piaowu/!svn/ver/14208/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/AbstractJclqStaticInstantSpFetchWorker.java
+END
+AbstractJclqScheduleFetchWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/piaowu/!svn/ver/17322/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/AbstractJclqScheduleFetchWorker.java
+END

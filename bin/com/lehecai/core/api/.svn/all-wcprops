@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/piaowu/!svn/ver/29630/pcore/trunk/src/com/lehecai/core/api
+END
+ApiRequestRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/piaowu/!svn/ver/25606/pcore/trunk/src/com/lehecai/core/api/ApiRequestRange.java
+END
+ApiConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/piaowu/!svn/ver/4232/pcore/trunk/src/com/lehecai/core/api/ApiConfig.java
+END
+SimpleApiRequestBatchUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/piaowu/!svn/ver/28259/pcore/trunk/src/com/lehecai/core/api/SimpleApiRequestBatchUpdate.java
+END
+ApiRequestService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/piaowu/!svn/ver/29554/pcore/trunk/src/com/lehecai/core/api/ApiRequestService.java
+END
+IApiBatchUpdateItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/piaowu/!svn/ver/7440/pcore/trunk/src/com/lehecai/core/api/IApiBatchUpdateItem.java
+END
+SimpleApiBatchUpdateItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/piaowu/!svn/ver/7440/pcore/trunk/src/com/lehecai/core/api/SimpleApiBatchUpdateItem.java
+END
+MessageApiUrlConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/piaowu/!svn/ver/27814/pcore/trunk/src/com/lehecai/core/api/MessageApiUrlConstant.java
+END
+BaseApiRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/piaowu/!svn/ver/4222/pcore/trunk/src/com/lehecai/core/api/BaseApiRequest.java
+END
+ApiRequestWhere.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/piaowu/!svn/ver/14755/pcore/trunk/src/com/lehecai/core/api/ApiRequestWhere.java
+END
+DirectApiRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/piaowu/!svn/ver/29554/pcore/trunk/src/com/lehecai/core/api/DirectApiRequest.java
+END
+ApiRequestOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/piaowu/!svn/ver/25146/pcore/trunk/src/com/lehecai/core/api/ApiRequestOrder.java
+END
+ApiRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/piaowu/!svn/ver/29554/pcore/trunk/src/com/lehecai/core/api/ApiRequest.java
+END
+AbstractApiResultBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/piaowu/!svn/ver/14208/pcore/trunk/src/com/lehecai/core/api/AbstractApiResultBean.java
+END
+ApiRequestSelect.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/piaowu/!svn/ver/24575/pcore/trunk/src/com/lehecai/core/api/ApiRequestSelect.java
+END
+ApiConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/piaowu/!svn/ver/29554/pcore/trunk/src/com/lehecai/core/api/ApiConstant.java
+END
+SimpleApiRequestBatchQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/piaowu/!svn/ver/14755/pcore/trunk/src/com/lehecai/core/api/SimpleApiRequestBatchQuery.java
+END
+ApiResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/piaowu/!svn/ver/29554/pcore/trunk/src/com/lehecai/core/api/ApiResponse.java
+END
+IApiBatchQueryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/piaowu/!svn/ver/14755/pcore/trunk/src/com/lehecai/core/api/IApiBatchQueryItem.java
+END
+SimpleApiBatchQueryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/piaowu/!svn/ver/14755/pcore/trunk/src/com/lehecai/core/api/SimpleApiBatchQueryItem.java
+END
+IApiRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/piaowu/!svn/ver/3104/pcore/trunk/src/com/lehecai/core/api/IApiRequest.java
+END
+SearchApiUrlConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/piaowu/!svn/ver/25146/pcore/trunk/src/com/lehecai/core/api/SearchApiUrlConstant.java
+END
+EngineApiUrlConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/piaowu/!svn/ver/29554/pcore/trunk/src/com/lehecai/core/api/EngineApiUrlConstant.java
+END
+ApiRequestDateRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/piaowu/!svn/ver/24575/pcore/trunk/src/com/lehecai/core/api/ApiRequestDateRange.java
+END
+SimpleObjectApiBatchUpdateItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/piaowu/!svn/ver/7440/pcore/trunk/src/com/lehecai/core/api/SimpleObjectApiBatchUpdateItem.java
+END
+ApiRequestSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/piaowu/!svn/ver/14755/pcore/trunk/src/com/lehecai/core/api/ApiRequestSet.java
+END

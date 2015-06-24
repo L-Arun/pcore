@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/piaowu/!svn/ver/6704/pcore/trunk/test/com/lehecai/core/test/api/lottery
+END
+PhaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/piaowu/!svn/ver/6704/pcore/trunk/test/com/lehecai/core/test/api/lottery/PhaseTest.java
+END
+ClientFetchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/piaowu/!svn/ver/3512/pcore/trunk/test/com/lehecai/core/test/api/lottery/ClientFetchTest.java
+END
+ClientFootballFetchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/piaowu/!svn/ver/3512/pcore/trunk/test/com/lehecai/core/test/api/lottery/ClientFootballFetchTest.java
+END

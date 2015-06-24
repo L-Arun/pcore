@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/piaowu/!svn/ver/26757/pcore/trunk/src/com/lehecai/core/lottery/validator/impl/lotterydraw
+END
+AbstractLotteryDrawResultCountValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/piaowu/!svn/ver/26757/pcore/trunk/src/com/lehecai/core/lottery/validator/impl/lotterydraw/AbstractLotteryDrawResultCountValidator.java
+END
+CommonLotteryDrawResultRegionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/piaowu/!svn/ver/26757/pcore/trunk/src/com/lehecai/core/lottery/validator/impl/lotterydraw/CommonLotteryDrawResultRegionValidator.java
+END
+CommonLotteryDrawResultCountValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/piaowu/!svn/ver/26757/pcore/trunk/src/com/lehecai/core/lottery/validator/impl/lotterydraw/CommonLotteryDrawResultCountValidator.java
+END
+AbstractLotteryDrawResultDuplicatedValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/piaowu/!svn/ver/26757/pcore/trunk/src/com/lehecai/core/lottery/validator/impl/lotterydraw/AbstractLotteryDrawResultDuplicatedValidator.java
+END
+AbstractLotteryDrawResultValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/piaowu/!svn/ver/26757/pcore/trunk/src/com/lehecai/core/lottery/validator/impl/lotterydraw/AbstractLotteryDrawResultValidator.java
+END
+AbstractLotteryDrawResultRegionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/piaowu/!svn/ver/26757/pcore/trunk/src/com/lehecai/core/lottery/validator/impl/lotterydraw/AbstractLotteryDrawResultRegionValidator.java
+END
+CommonLotteryDrawResultDuplicatedValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/piaowu/!svn/ver/26757/pcore/trunk/src/com/lehecai/core/lottery/validator/impl/lotterydraw/CommonLotteryDrawResultDuplicatedValidator.java
+END

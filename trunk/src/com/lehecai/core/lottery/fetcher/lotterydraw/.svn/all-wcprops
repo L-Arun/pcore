@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/piaowu/!svn/ver/29197/pcore/trunk/src/com/lehecai/core/lottery/fetcher/lotterydraw
+END
+LotteryDraw.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/piaowu/!svn/ver/5763/pcore/trunk/src/com/lehecai/core/lottery/fetcher/lotterydraw/LotteryDraw.java
+END
+ILotteryDrawComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/piaowu/!svn/ver/8243/pcore/trunk/src/com/lehecai/core/lottery/fetcher/lotterydraw/ILotteryDrawComparator.java
+END
+LotteryDrawPrizeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/piaowu/!svn/ver/2555/pcore/trunk/src/com/lehecai/core/lottery/fetcher/lotterydraw/LotteryDrawPrizeItem.java
+END
+ILotteryDrawFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/piaowu/!svn/ver/1730/pcore/trunk/src/com/lehecai/core/lottery/fetcher/lotterydraw/ILotteryDrawFetcher.java
+END
+FetchLotteryDrawUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/piaowu/!svn/ver/19761/pcore/trunk/src/com/lehecai/core/lottery/fetcher/lotterydraw/FetchLotteryDrawUrl.java
+END

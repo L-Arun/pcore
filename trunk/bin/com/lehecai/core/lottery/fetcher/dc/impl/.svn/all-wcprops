@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/piaowu/!svn/ver/29630/pcore/trunk/src/com/lehecai/core/lottery/fetcher/dc/impl
+END
+BaseDcScheduleFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/piaowu/!svn/ver/2482/pcore/trunk/src/com/lehecai/core/lottery/fetcher/dc/impl/BaseDcScheduleFetcher.java
+END
+BaseSfggScheduleFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/piaowu/!svn/ver/29630/pcore/trunk/src/com/lehecai/core/lottery/fetcher/dc/impl/BaseSfggScheduleFetcher.java
+END
+BaseDcAverageSPFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/piaowu/!svn/ver/1933/pcore/trunk/src/com/lehecai/core/lottery/fetcher/dc/impl/BaseDcAverageSPFetcher.java
+END
+CommonDcLotteryDrawFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/piaowu/!svn/ver/20782/pcore/trunk/src/com/lehecai/core/lottery/fetcher/dc/impl/CommonDcLotteryDrawFetcher.java
+END
+CommonSfggLotteryDrawFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/piaowu/!svn/ver/29630/pcore/trunk/src/com/lehecai/core/lottery/fetcher/dc/impl/CommonSfggLotteryDrawFetcher.java
+END
+BaseDcLotteryDrawFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/piaowu/!svn/ver/8629/pcore/trunk/src/com/lehecai/core/lottery/fetcher/dc/impl/BaseDcLotteryDrawFetcher.java
+END
+BaseSfggLotteryDrawFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/piaowu/!svn/ver/29554/pcore/trunk/src/com/lehecai/core/lottery/fetcher/dc/impl/BaseSfggLotteryDrawFetcher.java
+END
+CommonDcInstantSPFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/piaowu/!svn/ver/25606/pcore/trunk/src/com/lehecai/core/lottery/fetcher/dc/impl/CommonDcInstantSPFetcher.java
+END
+CommonSfggInstantSPFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/piaowu/!svn/ver/29630/pcore/trunk/src/com/lehecai/core/lottery/fetcher/dc/impl/CommonSfggInstantSPFetcher.java
+END
+BaseDcInstantSPFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/piaowu/!svn/ver/14208/pcore/trunk/src/com/lehecai/core/lottery/fetcher/dc/impl/BaseDcInstantSPFetcher.java
+END
+BaseSfggInstantSPFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/piaowu/!svn/ver/29630/pcore/trunk/src/com/lehecai/core/lottery/fetcher/dc/impl/BaseSfggInstantSPFetcher.java
+END
+CommonDcScheduleFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/piaowu/!svn/ver/2482/pcore/trunk/src/com/lehecai/core/lottery/fetcher/dc/impl/CommonDcScheduleFetcher.java
+END
+CommonSfggScheduleFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/piaowu/!svn/ver/29630/pcore/trunk/src/com/lehecai/core/lottery/fetcher/dc/impl/CommonSfggScheduleFetcher.java
+END
+CommonDcAverageSPFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/piaowu/!svn/ver/1933/pcore/trunk/src/com/lehecai/core/lottery/fetcher/dc/impl/CommonDcAverageSPFetcher.java
+END

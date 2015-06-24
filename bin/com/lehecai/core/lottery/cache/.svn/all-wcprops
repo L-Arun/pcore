@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/piaowu/!svn/ver/29239/pcore/trunk/src/com/lehecai/core/lottery/cache
+END
+ComboLotteryMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/piaowu/!svn/ver/22191/pcore/trunk/src/com/lehecai/core/lottery/cache/ComboLotteryMap.java
+END
+OnSaleLotteryList.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/piaowu/!svn/ver/29239/pcore/trunk/src/com/lehecai/core/lottery/cache/OnSaleLotteryList.java
+END
+HighFrequencyLotteryMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/piaowu/!svn/ver/28879/pcore/trunk/src/com/lehecai/core/lottery/cache/HighFrequencyLotteryMap.java
+END
+NumericLotteryMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/piaowu/!svn/ver/23641/pcore/trunk/src/com/lehecai/core/lottery/cache/NumericLotteryMap.java
+END
+JczqGyjLottery.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/piaowu/!svn/ver/28552/pcore/trunk/src/com/lehecai/core/lottery/cache/JczqGyjLottery.java
+END
+DcLotteryList.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/piaowu/!svn/ver/4233/pcore/trunk/src/com/lehecai/core/lottery/cache/DcLotteryList.java
+END
+DcLotteryMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/piaowu/!svn/ver/2033/pcore/trunk/src/com/lehecai/core/lottery/cache/DcLotteryMap.java
+END
+JczqLottery.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/piaowu/!svn/ver/28586/pcore/trunk/src/com/lehecai/core/lottery/cache/JczqLottery.java
+END
+SportsLotteryMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/piaowu/!svn/ver/29239/pcore/trunk/src/com/lehecai/core/lottery/cache/SportsLotteryMap.java
+END
+JclqLottery.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/piaowu/!svn/ver/28586/pcore/trunk/src/com/lehecai/core/lottery/cache/JclqLottery.java
+END
+DcInstantSPCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/piaowu/!svn/ver/3473/pcore/trunk/src/com/lehecai/core/lottery/cache/DcInstantSPCache.java
+END

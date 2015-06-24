@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/piaowu/!svn/ver/17756/pcore/trunk/src/com/lehecai/core/service/impl/memcached
+END
+SpyMemcachedPoolServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/piaowu/!svn/ver/17756/pcore/trunk/src/com/lehecai/core/service/impl/memcached/SpyMemcachedPoolServiceImpl.java
+END
+SpyMemcachedServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/piaowu/!svn/ver/17756/pcore/trunk/src/com/lehecai/core/service/impl/memcached/SpyMemcachedServiceImpl.java
+END

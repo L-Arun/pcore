@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/piaowu/!svn/ver/28552/pcore/trunk/src/com/lehecai/core/api/event
+END
+EuroCupMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/piaowu/!svn/ver/27637/pcore/trunk/src/com/lehecai/core/api/event/EuroCupMatch.java
+END
+EuroCupDraw.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/api/event/EuroCupDraw.java
+END
+EuroCupChat.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/piaowu/!svn/ver/28425/pcore/trunk/src/com/lehecai/core/api/event/EuroCupChat.java
+END
+Coupon.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/piaowu/!svn/ver/13163/pcore/trunk/src/com/lehecai/core/api/event/Coupon.java
+END
+EventLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/piaowu/!svn/ver/22294/pcore/trunk/src/com/lehecai/core/api/event/EventLog.java
+END
+EuroCupTeam.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/piaowu/!svn/ver/27444/pcore/trunk/src/com/lehecai/core/api/event/EuroCupTeam.java
+END
+EventPrize.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/piaowu/!svn/ver/16889/pcore/trunk/src/com/lehecai/core/api/event/EventPrize.java
+END
+EventInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/piaowu/!svn/ver/19471/pcore/trunk/src/com/lehecai/core/api/event/EventInfo.java
+END
+EventPrizeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/piaowu/!svn/ver/26322/pcore/trunk/src/com/lehecai/core/api/event/EventPrizeType.java
+END
+EuroCupOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/piaowu/!svn/ver/28552/pcore/trunk/src/com/lehecai/core/api/event/EuroCupOrder.java
+END

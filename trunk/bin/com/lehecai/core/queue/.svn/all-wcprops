@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/piaowu/!svn/ver/16044/pcore/trunk/src/com/lehecai/core/queue
+END
+IQueueTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/piaowu/!svn/ver/1291/pcore/trunk/src/com/lehecai/core/queue/IQueueTask.java
+END
+QueueCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/piaowu/!svn/ver/7027/pcore/trunk/src/com/lehecai/core/queue/QueueCallback.java
+END
+IQueueConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/piaowu/!svn/ver/1123/pcore/trunk/src/com/lehecai/core/queue/IQueueConfig.java
+END
+QueueTaskService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/piaowu/!svn/ver/8126/pcore/trunk/src/com/lehecai/core/queue/QueueTaskService.java
+END
+AbstractQueueTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/piaowu/!svn/ver/1291/pcore/trunk/src/com/lehecai/core/queue/AbstractQueueTask.java
+END
+AbstractQueueConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/piaowu/!svn/ver/1123/pcore/trunk/src/com/lehecai/core/queue/AbstractQueueConfig.java
+END
+QueueConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/piaowu/!svn/ver/13486/pcore/trunk/src/com/lehecai/core/queue/QueueConstant.java
+END

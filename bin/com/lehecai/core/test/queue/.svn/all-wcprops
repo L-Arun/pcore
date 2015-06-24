@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/piaowu/!svn/ver/1154/pcore/trunk/test/com/lehecai/core/test/queue
+END
+MailQueueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/piaowu/!svn/ver/1154/pcore/trunk/test/com/lehecai/core/test/queue/MailQueueTest.java
+END
+SmsQueueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/piaowu/!svn/ver/1154/pcore/trunk/test/com/lehecai/core/test/queue/SmsQueueTest.java
+END

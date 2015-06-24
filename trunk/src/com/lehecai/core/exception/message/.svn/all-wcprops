@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/piaowu/!svn/ver/28259/pcore/trunk/src/com/lehecai/core/exception/message
+END
+MessagePublishException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/piaowu/!svn/ver/28259/pcore/trunk/src/com/lehecai/core/exception/message/MessagePublishException.java
+END
+MessageConsumeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/piaowu/!svn/ver/28259/pcore/trunk/src/com/lehecai/core/exception/message/MessageConsumeException.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/piaowu/!svn/ver/28879/pcore/trunk/src/com/lehecai/core/config/impl
+END
+AbstractDefaultSupportedConfigParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/piaowu/!svn/ver/26322/pcore/trunk/src/com/lehecai/core/config/impl/AbstractDefaultSupportedConfigParser.java
+END
+AbstractLotteryTypeSupportedConfigParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/impl/AbstractLotteryTypeSupportedConfigParser.java
+END
+AbstractDefaultSupportedConfigItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/piaowu/!svn/ver/26142/pcore/trunk/src/com/lehecai/core/config/impl/AbstractDefaultSupportedConfigItem.java
+END
+AbstractDefaultSupportedConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/piaowu/!svn/ver/27462/pcore/trunk/src/com/lehecai/core/config/impl/AbstractDefaultSupportedConfig.java
+END
+AbstractLotteryTypeSupportedConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/piaowu/!svn/ver/27462/pcore/trunk/src/com/lehecai/core/config/impl/AbstractLotteryTypeSupportedConfig.java
+END
+AbstractConfigParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/impl/AbstractConfigParser.java
+END
+AbstractConfigItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/piaowu/!svn/ver/26142/pcore/trunk/src/com/lehecai/core/config/impl/AbstractConfigItem.java
+END
+AbstractConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/piaowu/!svn/ver/26142/pcore/trunk/src/com/lehecai/core/config/impl/AbstractConfig.java
+END
+AbstractLotteryTypeDefaultSupportedConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/piaowu/!svn/ver/27462/pcore/trunk/src/com/lehecai/core/config/impl/AbstractLotteryTypeDefaultSupportedConfig.java
+END

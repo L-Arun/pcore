@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/impl
+END
+CommonJclqStaticInstantSpFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/piaowu/!svn/ver/14208/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/impl/CommonJclqStaticInstantSpFetcher.java
+END
+CommonJclqScheduleFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/piaowu/!svn/ver/17322/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/impl/CommonJclqScheduleFetcher.java
+END
+BaseJclqStaticInstantSpFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/piaowu/!svn/ver/14208/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/impl/BaseJclqStaticInstantSpFetcher.java
+END
+BaseJclqScheduleFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/piaowu/!svn/ver/17325/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/impl/BaseJclqScheduleFetcher.java
+END
+CommonJclqSpFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/piaowu/!svn/ver/25775/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/impl/CommonJclqSpFetcher.java
+END
+BaseJclqSpFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/piaowu/!svn/ver/14208/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/impl/BaseJclqSpFetcher.java
+END
+CommonJclqDynamicInstantSpFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/piaowu/!svn/ver/14208/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/impl/CommonJclqDynamicInstantSpFetcher.java
+END
+BaseJclqDynamicInstantSpFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/piaowu/!svn/ver/14208/pcore/trunk/src/com/lehecai/core/lottery/fetcher/jclq/impl/BaseJclqDynamicInstantSpFetcher.java
+END

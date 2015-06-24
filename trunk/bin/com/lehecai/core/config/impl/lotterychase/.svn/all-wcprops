@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/impl/lotterychase
+END
+ChaseCancelSMSConfigParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/impl/lotterychase/ChaseCancelSMSConfigParser.java
+END
+ChaseDrawFailedSMSConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/impl/lotterychase/ChaseDrawFailedSMSConfig.java
+END
+ChaseCancelSMSConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/impl/lotterychase/ChaseCancelSMSConfig.java
+END
+ChaseCompleteSMSConfigParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/impl/lotterychase/ChaseCompleteSMSConfigParser.java
+END
+ChaseCompleteSMSConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/impl/lotterychase/ChaseCompleteSMSConfig.java
+END
+ChaseStoppedSMSConfigParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/impl/lotterychase/ChaseStoppedSMSConfigParser.java
+END
+ChaseStoppedSMSConfigItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/impl/lotterychase/ChaseStoppedSMSConfigItem.java
+END
+ChaseStoppedSMSConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/impl/lotterychase/ChaseStoppedSMSConfig.java
+END
+AbstractChaseStoppedSMSConfigParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/impl/lotterychase/AbstractChaseStoppedSMSConfigParser.java
+END
+ChaseDrawFailedSMSConfigParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/impl/lotterychase/ChaseDrawFailedSMSConfigParser.java
+END

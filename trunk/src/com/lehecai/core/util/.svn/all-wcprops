@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/piaowu/!svn/ver/29519/pcore/trunk/src/com/lehecai/core/util
+END
+CoreNumberUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/piaowu/!svn/ver/8318/pcore/trunk/src/com/lehecai/core/util/CoreNumberUtil.java
+END
+CoreAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/piaowu/!svn/ver/6897/pcore/trunk/src/com/lehecai/core/util/CoreAlgorithm.java
+END
+PropertiesAdvancedFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/piaowu/!svn/ver/9881/pcore/trunk/src/com/lehecai/core/util/PropertiesAdvancedFactoryBean.java
+END
+CoreStringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/piaowu/!svn/ver/27637/pcore/trunk/src/com/lehecai/core/util/CoreStringUtils.java
+END
+CoreObjectUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/piaowu/!svn/ver/1281/pcore/trunk/src/com/lehecai/core/util/CoreObjectUtils.java
+END
+CoreJSONUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/piaowu/!svn/ver/29197/pcore/trunk/src/com/lehecai/core/util/CoreJSONUtils.java
+END
+CharsetConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/piaowu/!svn/ver/7309/pcore/trunk/src/com/lehecai/core/util/CharsetConstant.java
+END
+IStringConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/piaowu/!svn/ver/3442/pcore/trunk/src/com/lehecai/core/util/IStringConverter.java
+END
+CoreDateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/piaowu/!svn/ver/25146/pcore/trunk/src/com/lehecai/core/util/CoreDateUtils.java
+END
+CoreHttpUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/piaowu/!svn/ver/26662/pcore/trunk/src/com/lehecai/core/util/CoreHttpUtils.java
+END
+CoreFileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/piaowu/!svn/ver/20782/pcore/trunk/src/com/lehecai/core/util/CoreFileUtils.java
+END
+CoreFetcherUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/piaowu/!svn/ver/19938/pcore/trunk/src/com/lehecai/core/util/CoreFetcherUtils.java
+END
+CoreMathUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/piaowu/!svn/ver/4575/pcore/trunk/src/com/lehecai/core/util/CoreMathUtils.java
+END
+CoreTimeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/piaowu/!svn/ver/26949/pcore/trunk/src/com/lehecai/core/util/CoreTimeUtils.java
+END
+CoreXmlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/piaowu/!svn/ver/23641/pcore/trunk/src/com/lehecai/core/util/CoreXmlUtils.java
+END
+CoreBase64.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/piaowu/!svn/ver/23946/pcore/trunk/src/com/lehecai/core/util/CoreBase64.java
+END

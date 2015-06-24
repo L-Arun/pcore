@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/piaowu/!svn/ver/28879/pcore/trunk/src/com/lehecai/core/config
+END
+IConfigParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/IConfigParser.java
+END
+IConfigItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/piaowu/!svn/ver/26142/pcore/trunk/src/com/lehecai/core/config/IConfigItem.java
+END
+ConfigParserMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/piaowu/!svn/ver/27595/pcore/trunk/src/com/lehecai/core/config/ConfigParserMapping.java
+END
+IConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/piaowu/!svn/ver/15703/pcore/trunk/src/com/lehecai/core/config/IConfig.java
+END

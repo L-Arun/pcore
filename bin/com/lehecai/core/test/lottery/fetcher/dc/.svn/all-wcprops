@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/piaowu/!svn/ver/24845/pcore/trunk/test/com/lehecai/core/test/lottery/fetcher/dc
+END
+CommonDcLotteryDrawFetchWorker500WanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/piaowu/!svn/ver/2484/pcore/trunk/test/com/lehecai/core/test/lottery/fetcher/dc/CommonDcLotteryDrawFetchWorker500WanTest.java
+END
+CommonDcLotteryDrawFetcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/piaowu/!svn/ver/24845/pcore/trunk/test/com/lehecai/core/test/lottery/fetcher/dc/CommonDcLotteryDrawFetcherTest.java
+END
+CommonDcInstantSPFetcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/piaowu/!svn/ver/14208/pcore/trunk/test/com/lehecai/core/test/lottery/fetcher/dc/CommonDcInstantSPFetcherTest.java
+END
+CommonDcScheduleFetchWorker500WanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/piaowu/!svn/ver/24119/pcore/trunk/test/com/lehecai/core/test/lottery/fetcher/dc/CommonDcScheduleFetchWorker500WanTest.java
+END
+CommonDcAverageSPFetcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/piaowu/!svn/ver/1934/pcore/trunk/test/com/lehecai/core/test/lottery/fetcher/dc/CommonDcAverageSPFetcherTest.java
+END
