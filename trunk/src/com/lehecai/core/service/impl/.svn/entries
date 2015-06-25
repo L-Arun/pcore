@@ -1,52 +1,0 @@
-10
-
-dir
-29686
-http://172.16.3.11:555/svn/piaowu/pcore/trunk/src/com/lehecai/core/service/impl
-http://172.16.3.11:555/svn/piaowu
-
-
-
-2012-06-07T08:26:11.468635Z
-28425
-luhx
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-372b6e08-8a1f-4394-84c6-d71a98a74313
-
-archive
-dir
-
-lottery
-dir
-
-cache
-dir
-
-message
-dir
-
-upload
-dir
-
-config
-dir
-
-memcached
-dir
-
-setting
-dir
-
